@@ -13,7 +13,8 @@ Choose a regions that is close to end users of your application.
 - #### Available Services
 New features and services are not available in all regions.
 - #### Pricing
-Pricing varies region to region and can be estimated from [here](https://calculator.aws "here")
+Pricing varies region to region and can be estimated from [here](https://calculator.aws)
+
 ---------------------------------
 
 ## AWS Availability Zone(AZ)
